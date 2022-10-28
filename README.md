@@ -1,2 +1,2 @@
-# NNDWYSL
+# OA-FPN
 Some studies
